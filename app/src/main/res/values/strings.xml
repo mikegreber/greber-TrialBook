@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">greber-TrialBook</string>
+    <string name="date_format_hint">YYYY-MM-DD</string>
+    <string name="button_success_text">Success</string>
+    <string name="button_fail_text">Failure</string>
+    <string name="button_cancel_text">Cancel</string>
+    <string name="button_confirm_text">OK</string>
+    <string name="description_hint">A Rusty Coin ...</string>
+    <string name="input_title_description">Description</string>
+    <string name="input_title_date">Date</string>
+    <string name="input_title_success_count">Success Count</string>
+    <string name="input_title_failure_count">Failure Count</string>
+</resources>
